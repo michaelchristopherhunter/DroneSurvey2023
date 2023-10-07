@@ -8,9 +8,9 @@ Further, several survey respondents indicated an aversion to any AI-supported au
 
 ## Index
 
-> 1. [Survey Results](https://gitlab.com/michaelchristopherhunter/DroneSurvey2023/20230915_Survey_Responses_Public.xlsx) <br>
+> 1. [Survey Results](https://github.com/michaelchristopherhunter/DroneSurvey2023/20230915_Survey_Responses_Public.xlsx) <br>
      This file contains the raw data from the survey, including the comments we received from people directly (not through Qualtrics) and the responses that we did not use because they did not finish enough of the survey. The data has had any personal data removed. <br>
-> 2. [Initial Vignette Design](https://gitlab.com/michaelchristopherhunter/DroneSurvey2023/Dronas_early_draft.pdf) <br>
+> 2. [Initial Vignette Design](https://github.com/michaelchristopherhunter/DroneSurvey2023/Dronas_early_draft.pdf) <br>
      This file contains some early versions of our vignettes.
-> 3. [Final Vignettes](https://gitlab.com/michaelchristopherhunter/DroneSurvey2023/Dronas_vignettes.pdf) <br>
+> 3. [Final Vignettes](https://github.com/michaelchristopherhunter/DroneSurvey2023/Dronas_vignettes.pdf) <br>
      This file contains the final version of our vignettes after feedback from drone expert 
