@@ -1,0 +1,48 @@
+Q32
+Please feel free to share any other thoughts you have on how AI decisions should be made.
+Thoughts
+
+Decisions should be primarily based on safety concerns, more specifically on whether there is a possible threat to the people in the vicinity of the mission. The drone should be capable on flying under current weather conditions and should have many layers of safety that mitigates possible damage to property or people (parachute, detect and avoid, etc). The pilot's experience, while important, is not a major cause of concern (if drone navigation system is not overly complex).
+
+AI should only be used for Air Traffic Management- no UAV should have AI applied to decision making processes
+
+I believe it would be hard to have AI determine drone flights based off limited data points. For example, bridge inspections near an airport should be allowed because of its impact, and likely a licensed pilot...however aerial shots of a soccer match near an airport doesn't justify the risk of flying near an airport ever on my opinion.
+
+Don‚Äôt use AI for this.
+
+
+Some analysts of these are not as simple as a weight.  Things like risk assessments are a red flag if absent but could be included as a requirement before any approvals. Flying near the limits of a drones rating for wind and weather aren‚Äôt an issue by itself but make other risks like near people more important. 
+Finally, disasters are important to grant access for supplies but need to be carefully watched and prioritized to prevent interupting emergency services.  And sight seeing in a disaster area needs to be limited to official surveys. "
+
+Little has been fed to the AI regarding the following.
+1. Number of pilot  flight hours on a similar aircraft 
+2. Minimum amount of flight time the drone has crossed before entering the target venue on the scheduled day.
+3. Is the pilot a last minute change due to the actual pilot take over of the flight due to illness or something else.
+4. Has the pilot passed the drone pilot certification program 
+5. AUW including payload  of the drone for the target scene in order to analyze risk involvement during any 
+    mishap
+6.Hours of successful flight time after the last repaired crash 
+
+Other factors like potential interference with control signal should be considered.
+
+Flight hours arent currently required to be tracked by pilots, and could easily be misrepresented 
+I feel there should be also a human decision and not having the whole decision made by a AI!
+
+We already have systems like LAANC that authorize flights in controlled airspace.  In general, I believe authorization should be based on realistic risk assessments, with the assumption that the pilot is doing risk assessment themselves.  In most of the cases shown to me there was zero to very little risk to manned aviation or people on the ground and so the flights should be approved.  If these flights are performed under control of a UTM there should be even less risk of problem since the drone traffic would be coordinated with other aerial traffic.  Don‚Äôt over complicate, and take risk seriously.  Most drones pose very very small risk.  
+
+This should never be left up to AI. There should always be a person involved when it comes to approving more complex missions. The human element cannot be taken out of the equation.
+AI should not be making these decisions without human review. 
+
+AI could easily misinterpret someone‚Äôs intent and how the word something. 
+
+I am interested in how the parameters are being inputted into AI. These type of judgement all relies on the information of each parameter being provided, however it seems like to obtain these parameter a human is required.
+
+How will ""Al"" system be better than simple rules based on the same score system?"
+The options don't clarify if something was important towards the decision or was a strike against it but mitigated by other factors.
+For example, a pilot with lots of crashes is a red flag... but with a relatively low risk flight and a drone with additional safety feature it's less of a problem.
+A low altitude flight over some farmland close-ish to an airport is less worrying than the same pilot flying downtown for a wedding photoshoot.
+Maybe if you are gathering another round of data, having an ""important but opposing the decision"" would be useful."
+"When accounting for pilot experience and prior incidents, where would that data come from? I have thousands of flights, but plenty of those aren't linked to any single account or database.
+I work in emergency operations. How would AI be able to determine exigency or severity of an incident when making an approval decision?"
+"Assessment should be risk based. And the truth is that most camera drones pose close to zero risk to people or aircraft.
+The entire manned aviation system is based around minimizing fatalities.  By that metric sUAS have a perfect record yet the FAA restricts based on the chance someone might need a bandaid."
