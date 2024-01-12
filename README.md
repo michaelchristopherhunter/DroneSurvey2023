@@ -18,7 +18,7 @@ Further, several survey respondents indicated an aversion to any AI-supported au
           Contains the demographic information the survey gathered.
 >      2. [Scenario Description and Opinions part 1](https://github.com/michaelchristopherhunter/DroneSurvey2023/blob/main/Survey%20Overall%20Factors%20sliders%201.png) 
 >      3. [Scenario Description and Opinions part 1](https://github.com/michaelchristopherhunter/DroneSurvey2023/blob/main/Survey%20Overall%20Factors%20sliders%202.png) <br>
-          Documents 2 and 3 contain an example of a scenario and the questions we asked about that scenario. 
+          Documents ii and iii contain an example of a scenario and the questions we asked about that scenario. 
 >      4. [Overall Opinions part 1](https://github.com/michaelchristopherhunter/DroneSurvey2023/blob/main/Survey%20Permission%20Authorization%20Request%201.png)
 >      5. [Overall Opinions part 2](https://github.com/michaelchristopherhunter/DroneSurvey2023/blob/main/Survey%20Permission%20Authorization%20Request%202.png) <br>
-          Documents 4 and 5 contain the questions we asked about each participant's overall views, as well as the open-ended response at the end.  
+          Documents iv and v contain the questions we asked about each participant's overall views, as well as the open-ended response at the end.  
